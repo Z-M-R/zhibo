@@ -18,4 +18,4 @@ Route::get('/', function () {
 
 Route::get('/index','Index\IndexController@index');    
 Route::get('/login','Login\LoginController@login');     //登录
-Route::get('/server','Index\IndexController@server');     //注册
+// Route::get('/server','Index\IndexController@server');     //注册
