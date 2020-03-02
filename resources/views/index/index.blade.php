@@ -86,7 +86,7 @@
 
     var player = new Aliplayer({
             "id": "player-con",
-            "source": "rtmp://youke.zmrzzj.com/zhang/zhang?auth_key=1583114584-0-0-3bc939c9c56544d1e6fdda55a91275b7",
+            "source": "rtmp://youke.zmrzzj.com/zhang/ming?auth_key=1583154589-0-0-c26bad7761e5bbc530fa3f6850babdc8",
             "width": "70%",
             "height": "600px",
             "autoplay": true,
